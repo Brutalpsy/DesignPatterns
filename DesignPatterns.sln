@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarkerPositions", "mediator\MarkerPositions\MarkerPositions.csproj", "{EE0290B9-00DD-49C6-98A6-68F3B7B1F061}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatRDemo", "mediator\MediatRDemo\MediatRDemo.csproj", "{7F24356D-7C5F-40FC-8B27-DB765796283C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mediator", "mediator", "{EBD50BFB-B478-4B09-9177-486345C83997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorDemo", "mediator\MediatorDemo\MediatorDemo.csproj", "{938F2AB5-FE55-4D9F-A876-8A4C7DDF9310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0290B9-00DD-49C6-98A6-68F3B7B1F061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0290B9-00DD-49C6-98A6-68F3B7B1F061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0290B9-00DD-49C6-98A6-68F3B7B1F061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0290B9-00DD-49C6-98A6-68F3B7B1F061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F24356D-7C5F-40FC-8B27-DB765796283C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F24356D-7C5F-40FC-8B27-DB765796283C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F24356D-7C5F-40FC-8B27-DB765796283C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F24356D-7C5F-40FC-8B27-DB765796283C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938F2AB5-FE55-4D9F-A876-8A4C7DDF9310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938F2AB5-FE55-4D9F-A876-8A4C7DDF9310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938F2AB5-FE55-4D9F-A876-8A4C7DDF9310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938F2AB5-FE55-4D9F-A876-8A4C7DDF9310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE0290B9-00DD-49C6-98A6-68F3B7B1F061} = {EBD50BFB-B478-4B09-9177-486345C83997}
+		{7F24356D-7C5F-40FC-8B27-DB765796283C} = {EBD50BFB-B478-4B09-9177-486345C83997}
+		{938F2AB5-FE55-4D9F-A876-8A4C7DDF9310} = {EBD50BFB-B478-4B09-9177-486345C83997}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A4F1DB-BC49-4A55-AD37-34D1ACF8FFD1}
+	EndGlobalSection
+EndGlobal
