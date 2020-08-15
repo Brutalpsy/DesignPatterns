@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cO0mt9y1olU2PbANI9pFV1jJ92c74daRKKAIvft30L32FffIGKUQDtu2/w1GVI6ylWYnhsfc1/vvSN7/DZ0+tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\strategy\\Strategy Pattern - First Look\\Strategy Pattern - First Look.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\psych\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\psych\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "C:\\Users\\psych\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\psych\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
