@@ -1,8 +1,27 @@
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Singleton Demo.deps.json
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Singleton Demo.runtimeconfig.json
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Singleton Demo.runtimeconfig.dev.json
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Singleton Demo.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Singleton Demo.pdb
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -12,7 +31,12 @@ C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -81,32 +105,8 @@ C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.csprojAssemblyReference.cache
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.AssemblyInfoInputs.cache
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.AssemblyInfo.cs
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.csproj.CopyComplete
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.genruntimeconfig.cache
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.assert.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.core.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Singleton Demo.pdb
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.csproj.CoreCompileInputs.cache
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.csproj.CopyComplete
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.dll
 C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.pdb
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\singleton\Singleton Demo\obj\Debug\netcoreapp3.1\Singleton Demo.genruntimeconfig.cache

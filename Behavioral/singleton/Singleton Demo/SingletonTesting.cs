@@ -18,10 +18,6 @@
         }
 
 
-
-
-
-
         // Method argument is OK
         public void DoSomething1(v6_LazyOfT.Singleton singleton)
         {
@@ -33,12 +29,6 @@
         {
             // do something with the singleton instance
         }
-
-
-
-
-
-
 
         // Static access is problematic
         public void DoSomething2()
@@ -53,10 +43,6 @@
             // Do some other logic
         }
     }
-
-
-
-
 
     public interface IServiceThatSingletonImplements
     { }

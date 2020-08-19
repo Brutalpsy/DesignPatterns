@@ -1,0 +1,9 @@
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\command\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.deps.json
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\command\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\command\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.pdb
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\command\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.csprojAssemblyReference.cache
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\command\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.AssemblyInfoInputs.cache
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\command\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.AssemblyInfo.cs
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\command\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.csproj.CoreCompileInputs.cache
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\command\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\command\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.pdb
