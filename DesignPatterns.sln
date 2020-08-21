@@ -19,15 +19,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy Pattern - First Lo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "singleton", "singleton", "{1B72584E-4E48-4FBB-8CF5-DC85DCEA4EFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton Demo", "Behavioral\singleton\Singleton Demo\Singleton Demo.csproj", "{DE674119-F0C0-4371-9479-55D4631DCAB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton Demo", "Behavioral\singleton\Singleton Demo\Singleton Demo.csproj", "{DE674119-F0C0-4371-9479-55D4631DCAB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "command", "command", "{B9532250-1F87-47EF-8BF0-90631F6A70C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart", "Behavioral\command\ShoppingCart\ShoppingCart.csproj", "{F59F11D1-96CF-41A9-883E-F8C4127EBAB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingCart", "Behavioral\command\ShoppingCart\ShoppingCart.csproj", "{F59F11D1-96CF-41A9-883E-F8C4127EBAB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Business", "Behavioral\command\ShoppingCart.Business\ShoppingCart.Business.csproj", "{611EBB24-6834-4D3F-A215-C8021159DD1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingCart.Business", "Behavioral\command\ShoppingCart.Business\ShoppingCart.Business.csproj", "{611EBB24-6834-4D3F-A215-C8021159DD1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Windows", "Behavioral\command\ShoppingCart.Windows\ShoppingCart.Windows.csproj", "{F65169CD-9432-42E8-8CD7-C06E77CB1409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingCart.Windows", "Behavioral\command\ShoppingCart.Windows\ShoppingCart.Windows.csproj", "{F65169CD-9432-42E8-8CD7-C06E77CB1409}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "null object", "null object", "{81A91097-D5BF-484B-B134-7AD61CE39D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullObject", "Behavioral\null object\NullObject\NullObject.csproj", "{5C7C7464-2FBB-4024-B9B8-00C16E2654C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +71,10 @@ Global
 		{F65169CD-9432-42E8-8CD7-C06E77CB1409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F65169CD-9432-42E8-8CD7-C06E77CB1409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F65169CD-9432-42E8-8CD7-C06E77CB1409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7C7464-2FBB-4024-B9B8-00C16E2654C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7C7464-2FBB-4024-B9B8-00C16E2654C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7C7464-2FBB-4024-B9B8-00C16E2654C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7C7464-2FBB-4024-B9B8-00C16E2654C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +92,8 @@ Global
 		{F59F11D1-96CF-41A9-883E-F8C4127EBAB5} = {B9532250-1F87-47EF-8BF0-90631F6A70C7}
 		{611EBB24-6834-4D3F-A215-C8021159DD1A} = {B9532250-1F87-47EF-8BF0-90631F6A70C7}
 		{F65169CD-9432-42E8-8CD7-C06E77CB1409} = {B9532250-1F87-47EF-8BF0-90631F6A70C7}
+		{81A91097-D5BF-484B-B134-7AD61CE39D48} = {36EE77B8-76EB-4354-B9BA-E1B1F28BC705}
+		{5C7C7464-2FBB-4024-B9B8-00C16E2654C1} = {81A91097-D5BF-484B-B134-7AD61CE39D48}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2A4F1DB-BC49-4A55-AD37-34D1ACF8FFD1}
