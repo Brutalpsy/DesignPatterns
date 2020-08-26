@@ -1,0 +1,12 @@
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.csprojAssemblyReference.cache
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.AssemblyInfo.cs
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Infrastructure.deps.json
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Infrastructure.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Infrastructure.pdb
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Domain.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Domain.pdb
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.csproj.CopyComplete
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.dll
+C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.pdb

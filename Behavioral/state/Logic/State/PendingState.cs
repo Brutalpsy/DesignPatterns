@@ -12,6 +12,7 @@ namespace State_Design_Pattern.Logic
 
         public override void DatePassed()
         {
+
         }
 
         public override void EnterDetails(string attendee, int ticketCount)
