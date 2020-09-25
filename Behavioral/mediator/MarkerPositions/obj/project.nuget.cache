@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RdZcZxHmqUf6SGR1tSsyP3NDjEcMMscMjDAMe1Y37PyFdt+8vng0kj6oPYo5ZPyFVuFfDGWbGbXhnfWGkVdvIw==",
+  "dgSpecHash": "7FI4BM9KKhFxcw46YWAfNuiOub2sHl3/J/WXOMmkM0/1QuSyhwcxDkRTuK+n8JYD8ImFHchkQ0IGhqVSL2rVcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\mediator\\MarkerPositions\\MarkerPositions.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

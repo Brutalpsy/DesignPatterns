@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4swA2Hf2eoFebVU+3X/zUfR9Udq0p8woaizQClRFiVDwBwix5o1ILyft1WSYZG+pC9u533SdEK4KKVJNKlAd2w==",
+  "dgSpecHash": "P8r2TJgVXajI7//BLnhf7dAJ0MJRYEq5itsFBDNcNx0zmZ71Oqtu9Pu6EH5BiISvTY51arhTNCWlddhIdy8iCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\mediator\\MediatorDemo\\MediatorDemo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

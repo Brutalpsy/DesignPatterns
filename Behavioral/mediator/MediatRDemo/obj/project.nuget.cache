@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H0nqofyjv1OgbiuwX9XUtBXPIGTMW3gkQLSfIsnu87GFVYxkK8kbrV8Y7y+T6JM13z5tOc0nS8KI5TxPKelT9g==",
+  "dgSpecHash": "PNzl0Qj5hNyf636wml4LAu1RqZF0SG8+fBInl1kW0cDs/D4kf6lb0ZL1TjlV7CRhzsZ0xUxXIRWezfQBQLprNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\mediator\\MediatRDemo\\MediatRDemo.csproj",
   "expectedPackageFiles": [
@@ -25,10 +25,7 @@
     "C:\\Users\\psych\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
     "C:\\Users\\psych\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\psych\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\psych\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

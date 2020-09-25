@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMMnCfOpp+XJcNyY7pkmZwWVGSwFVWCUzjqSII0VCvKgLrOJHBE0dNRvRh9OfTkJQkCUbip2Un4GiYPavkLmzw==",
+  "dgSpecHash": "y3Qf9sAHKTkROuduo3KhztRfdyoE9Ruz9knFtqg3byThReQOkzOG5j+O/63tg/IRyluC3TqPQu0f1v5z2KtDQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\null object\\NullObject\\NullObject.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\psych\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
