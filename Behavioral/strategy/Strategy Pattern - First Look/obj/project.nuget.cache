@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Lh6sOXa357X5CzLJBBlprjzfzzbNFf3CvokAaFWgUQLaaQwbdRHSuBV9dOAOT/N5UWeodLammRNpiEIDzy9+6A==",
+  "dgSpecHash": "kHiDTonQ6FKpGnOUXbpjqoRxUtuQMl3MopoD2naGyt+hUtE/7LQ0bebIVZMK2VYrBBOx88LYj5oUdcjX7w0B+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\strategy\\Strategy Pattern - First Look\\Strategy Pattern - First Look.csproj",
+  "projectFilePath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\strategy\\Strategy Pattern - First Look\\Strategy Pattern - First Look.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\psych\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\bruta\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

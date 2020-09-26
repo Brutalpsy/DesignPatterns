@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "na2OCndCQQ44tU63iH3FOw0FfAZ8NPHVso3jIn09M9OsP40DgilZc/05ujJrRA4k4P+TrNudZcGt01GEnB7bnQ==",
+  "dgSpecHash": "xGLDyfapaRsA/kJltqhfQQ1WIwXTR8pUueFJkKt8rDD8hb0t1MDwG2CxptSnvuiZzMR93HVjuu2TR/ij3IRszA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\chain of responsibility\\Chain of Responsibility First Look\\Chain of Responsibility First Look.csproj",
+  "projectFilePath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\chain of responsibility\\Chain of Responsibility First Look\\Chain of Responsibility First Look.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

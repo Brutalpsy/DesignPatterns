@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\specification\UI\obj\Debug\
+C:\Users\bruta\source\repos\DesignPatterns\Behavioral\specification\UI\obj\Debug\
 UI
 none
 false
 DEBUG;TRACE
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\specification\UI\App.xaml
+C:\Users\bruta\source\repos\DesignPatterns\Behavioral\specification\UI\App.xaml
 4-1678236176
 
-16-2018840014
-20-1163780812
+16-1876429534
+20-1573702480
 Common\Common.xaml;Common\CustomWindow.xaml;Common\MainWindow.xaml;Movies\MovieListView.xaml;
 
-True
+False
 

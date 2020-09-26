@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj": {}
+    "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj": {
+    "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj",
         "projectName": "MyShop.Domain",
-        "projectPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj",
-        "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\obj\\",
+        "projectPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\bruta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -60,25 +60,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj": {
+    "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
         "projectName": "MyShop.Infrastructure",
-        "projectPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\bruta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -92,8 +92,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj"
+              "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj"
               }
             }
           }
@@ -132,25 +132,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj": {
+    "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj",
+        "projectUniqueName": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj",
         "projectName": "MyShop.Web",
-        "projectPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj",
-        "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\obj\\",
+        "projectPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj",
+        "packagesPath": "C:\\Users\\bruta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -164,11 +164,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj"
+              "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj"
               },
-              "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj"
+              "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj"
               }
             }
           }
@@ -210,7 +210,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
