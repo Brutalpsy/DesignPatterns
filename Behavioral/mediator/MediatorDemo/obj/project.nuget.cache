@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ch82wuO4a9kX+EqCeVoewWRKhXpx29mfAQrKQDGBGUFJ1eMWDX0XYv0GLigDDCoO7vA5v0HDsG0aq+w7SM7uoQ==",
+  "dgSpecHash": "P8r2TJgVXajI7//BLnhf7dAJ0MJRYEq5itsFBDNcNx0zmZ71Oqtu9Pu6EH5BiISvTY51arhTNCWlddhIdy8iCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\mediator\\MediatorDemo\\MediatorDemo.csproj",
+  "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\mediator\\MediatorDemo\\MediatorDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

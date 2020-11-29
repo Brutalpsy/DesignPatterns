@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "H7Zz51BPIdww2SDfQ8AIW6Cxq41KHLXVUs5wNOfznxya9mbDjL6QyNWApCbP7WLzSNAOZU4TuG8K10WGmUbgYw==",
+  "dgSpecHash": "3qCOHVOTQrJfNhtHXuF/OwblVGYfxH4fEN+zQm0TuGhmwrktpPaaaCR2/s0l7s0H3F9sErcEOWqAaiftbZTh2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj",
+  "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Domain\\MyShop.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bruta\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

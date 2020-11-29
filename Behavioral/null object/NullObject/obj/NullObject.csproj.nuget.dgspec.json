@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\null object\\NullObject\\NullObject.csproj": {}
+    "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\null object\\NullObject\\NullObject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\null object\\NullObject\\NullObject.csproj": {
+    "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\null object\\NullObject\\NullObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\null object\\NullObject\\NullObject.csproj",
+        "projectUniqueName": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\null object\\NullObject\\NullObject.csproj",
         "projectName": "NullObject",
-        "projectPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\null object\\NullObject\\NullObject.csproj",
-        "packagesPath": "C:\\Users\\bruta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\null object\\NullObject\\obj\\",
+        "projectPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\null object\\NullObject\\NullObject.csproj",
+        "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\null object\\NullObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

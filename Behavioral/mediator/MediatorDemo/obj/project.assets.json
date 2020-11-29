@@ -8,25 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\bruta\\.nuget\\packages\\": {},
+    "C:\\Users\\psych\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\mediator\\MediatorDemo\\MediatorDemo.csproj",
+      "projectUniqueName": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\mediator\\MediatorDemo\\MediatorDemo.csproj",
       "projectName": "MediatorDemo",
-      "projectPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\mediator\\MediatorDemo\\MediatorDemo.csproj",
-      "packagesPath": "C:\\Users\\bruta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\mediator\\MediatorDemo\\obj\\",
+      "projectPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\mediator\\MediatorDemo\\MediatorDemo.csproj",
+      "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\mediator\\MediatorDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

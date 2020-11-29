@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "el8SemwcQscqCpfERiEPHHREApCYP/JDQHJNxrlr6O4VG27+ft2IExx1z8911BZkSzg9mxQ87zy1e+SvLO6Rlg==",
+  "dgSpecHash": "wtZB13s3rW8CrI7zHA37u+QSiBwuh6AZp8oUpqdxiHgN9ZYlZFQGJ3OqiErzMT1JVIo7IVh44tx5zraXgg2WEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruta\\source\\repos\\DesignPatterns\\Behavioral\\command\\ShoppingCart.Windows\\ShoppingCart.Windows.csproj",
+  "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\command\\ShoppingCart.Windows\\ShoppingCart.Windows.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
