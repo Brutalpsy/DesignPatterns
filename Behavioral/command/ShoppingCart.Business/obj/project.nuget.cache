@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zd48A62tFC7zZfub95hdfWM72FuMZAwGRuKyuQJTkUKo9hHsDWQ8ruP6ErdROoEq9VqcONhObJrN9Q5Qzg9whw==",
+  "dgSpecHash": "k4e0wjuKn0Q344Rp8+97LX5JLHXB8UywYUwFyTykzoWa63M/JkoI3j06lyLyuwlfW9vko7Cq/bUVbez0jDuj8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\command\\ShoppingCart.Business\\ShoppingCart.Business.csproj",
   "expectedPackageFiles": [

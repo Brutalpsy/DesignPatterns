@@ -24,3 +24,16 @@ C:\Users\bruta\source\repos\DesignPatterns\Structural\Bridge\obj\Debug\netcoreap
 C:\Users\bruta\source\repos\DesignPatterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.dll
 C:\Users\bruta\source\repos\DesignPatterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.pdb
 C:\Users\bruta\source\repos\DesignPatterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.genruntimeconfig.cache
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\bin\Debug\netcoreapp3.1\BridgePattern.exe
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\bin\Debug\netcoreapp3.1\BridgePattern.deps.json
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\bin\Debug\netcoreapp3.1\BridgePattern.runtimeconfig.json
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\bin\Debug\netcoreapp3.1\BridgePattern.runtimeconfig.dev.json
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\bin\Debug\netcoreapp3.1\BridgePattern.dll
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\bin\Debug\netcoreapp3.1\BridgePattern.pdb
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.csprojAssemblyReference.cache
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.AssemblyInfo.cs
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.dll
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.pdb
+C:\Users\psych\Source\Repos\Design Patterns\Structural\Bridge\obj\Debug\netcoreapp3.1\BridgePattern.genruntimeconfig.cache

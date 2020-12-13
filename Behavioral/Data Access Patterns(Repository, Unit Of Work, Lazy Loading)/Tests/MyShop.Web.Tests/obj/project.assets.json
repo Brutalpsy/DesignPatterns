@@ -8513,6 +8513,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj": {
               "projectPath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\MyShop.Web\\MyShop.Web.csproj"
@@ -8528,6 +8529,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -8573,7 +8575,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

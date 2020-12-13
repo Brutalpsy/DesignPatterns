@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XHVxtVkF8p9uAF8cAIXMBYO2TJTSvt8fzOPOpHvbFv1E6ZF+AyBvbqtyNZ8fB6WzoA9jd5NK7DTQsbdo/L7hsA==",
+  "dgSpecHash": "i8EWJ+AStC3WBpIShIi6iszL5cWcrmMVk8rdsSejwQK5ua7JVZIGe/854hS8ce7Ta/ix5igYSfpvvT3xR4O9YA==",
   "success": true,
   "projectFilePath": "C:\\Users\\psych\\Source\\Repos\\Design Patterns\\Behavioral\\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\\Tests\\MyShop.Web.Tests\\MyShop.Web.Tests.csproj",
   "expectedPackageFiles": [
