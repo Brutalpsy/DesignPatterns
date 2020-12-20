@@ -372,3 +372,8 @@ FodyWeavers.xsd
 *.dll
 *.pbd
 *.exe
+*.dtbcache
+*.suo
+.suo
+.cache
+.sln
