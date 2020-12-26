@@ -364,16 +364,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-
-*.v2
-*.testlog
-*.cache
-*.dll
-*.pbd
-*.exe
-*.dtbcache
-*.suo
-.suo
-.cache
-.sln

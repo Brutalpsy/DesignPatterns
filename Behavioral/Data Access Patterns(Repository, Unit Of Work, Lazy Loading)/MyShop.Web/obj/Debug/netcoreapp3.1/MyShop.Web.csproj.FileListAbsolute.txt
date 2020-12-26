@@ -1,9 +1,0 @@
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Web\obj\Debug\netcoreapp3.1\MyShop.Web.csprojAssemblyReference.cache
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Web\obj\Debug\netcoreapp3.1\MyShop.Web.AssemblyInfoInputs.cache
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Web\obj\Debug\netcoreapp3.1\MyShop.Web.AssemblyInfo.cs
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Web\obj\Debug\netcoreapp3.1\MyShop.Web.csproj.CoreCompileInputs.cache
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Web\obj\Debug\netcoreapp3.1\MyShop.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Web\obj\Debug\netcoreapp3.1\MyShop.Web.TagHelpers.input.cache
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Web\obj\Debug\netcoreapp3.1\MyShop.Web.TagHelpers.output.cache
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Web\obj\Debug\netcoreapp3.1\MyShop.Web.dll
-C:\Users\psych\Source\Repos\Design Patterns\Behavioral\Data Access Patterns(Repository, Unit Of Work, Lazy Loading)\MyShop.Web\obj\Debug\netcoreapp3.1\MyShop.Web.pdb

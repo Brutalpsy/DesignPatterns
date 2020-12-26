@@ -82,13 +82,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor Pattern", "Behavior
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "memento", "memento", "{61352DD7-2E01-4C0A-BE91-43FF6EF57CDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento - First Look", "Behavioral\memento\Memento - First Look\Memento - First Look.csproj", "{516C0DC0-DF51-49D4-BC25-382ADD3C9DE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento - First Look", "Behavioral\memento\Memento - First Look\Memento - First Look.csproj", "{516C0DC0-DF51-49D4-BC25-382ADD3C9DE7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "memento - hangman", "memento - hangman", "{C90C76D2-15C1-4DDD-BCDA-4EA512297D94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanClassLibrary", "Behavioral\memento\Memento - hangman\Hangman\HangmanClassLibrary.csproj", "{BFE5B475-7499-4E2F-9B20-137E726C19B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HangmanClassLibrary", "Behavioral\memento\Memento - hangman\Hangman\HangmanClassLibrary.csproj", "{BFE5B475-7499-4E2F-9B20-137E726C19B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanGameApp", "Behavioral\memento\Memento - hangman\HangmanGameApp\HangmanGameApp.csproj", "{CBFCD0EC-5229-4902-9034-52786AF947EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HangmanGameApp", "Behavioral\memento\Memento - hangman\HangmanGameApp\HangmanGameApp.csproj", "{CBFCD0EC-5229-4902-9034-52786AF947EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rules engine", "rules engine", "{D12F8EB9-3545-4C18-9753-0787EDCEB136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesEngine", "Behavioral\rules engine\RulesEngine\RulesEngine.csproj", "{9D536602-1584-4B09-AC67-069357A29365}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -196,6 +200,10 @@ Global
 		{CBFCD0EC-5229-4902-9034-52786AF947EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBFCD0EC-5229-4902-9034-52786AF947EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBFCD0EC-5229-4902-9034-52786AF947EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D536602-1584-4B09-AC67-069357A29365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D536602-1584-4B09-AC67-069357A29365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D536602-1584-4B09-AC67-069357A29365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D536602-1584-4B09-AC67-069357A29365}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -241,6 +249,8 @@ Global
 		{C90C76D2-15C1-4DDD-BCDA-4EA512297D94} = {61352DD7-2E01-4C0A-BE91-43FF6EF57CDA}
 		{BFE5B475-7499-4E2F-9B20-137E726C19B2} = {C90C76D2-15C1-4DDD-BCDA-4EA512297D94}
 		{CBFCD0EC-5229-4902-9034-52786AF947EB} = {C90C76D2-15C1-4DDD-BCDA-4EA512297D94}
+		{D12F8EB9-3545-4C18-9753-0787EDCEB136} = {36EE77B8-76EB-4354-B9BA-E1B1F28BC705}
+		{9D536602-1584-4B09-AC67-069357A29365} = {D12F8EB9-3545-4C18-9753-0787EDCEB136}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2A4F1DB-BC49-4A55-AD37-34D1ACF8FFD1}
