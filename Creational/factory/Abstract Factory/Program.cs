@@ -1,6 +1,6 @@
 ﻿using Abstract_Factory.Business;
 using Abstract_Factory.Business.Models.Commerce;
-using Abstract_Factory.Business.Models.Shipping.Factories;
+using Abstract_Factory.Business.Providers;
 using System;
 
 namespace Abstract_Factory
@@ -40,21 +40,27 @@ namespace Abstract_Factory
             order.LineItems.Add(new Item("CONSULTING", "Building a website", 100m), 1);
             #endregion
 
+            #region withoutProvider
+            //IPurchaseProviderFactory purchaseProviderFactory;
 
-            IPurchaseProviderFactory purchaseProviderFactory;
+            //if (order.Sender.Country == "Sweden")
+            //{
+            //    purchaseProviderFactory = new SwedenPurchaseProviderFactory();
+            //}
+            //else if (order.Sender.Country == "Australia")
+            //{
+            //    purchaseProviderFactory = new AustralianPurchaseProvicerFactory();
+            //}
+            //else
+            //{
+            //    throw new Exception("Sender country not registered");
+            //}
+            #endregion
 
-            if (order.Sender.Country == "Sweden")
-            {
-                purchaseProviderFactory = new SwedenPurchaseProviderFactory();
-            }
-            else if (order.Sender.Country == "Australia")
-            {
-                purchaseProviderFactory = new AustralianPurchaseProvicerFactory();
-            }
-            else
-            {
-                throw new Exception("Sender country not registered");
-            }
+
+            var purchaseProviderFactory = new PurchaseProviderFactoryProvider()
+                ?.CreateFactoryFor(order.Sender.Country) ?? throw new NotSupportedException("Sender country not registered");
+
 
             var cart = new ShoppingCart(order, purchaseProviderFactory);
 

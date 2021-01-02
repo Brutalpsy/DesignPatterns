@@ -20,9 +20,7 @@ namespace Abstract_Factory.Tests
         public void FinalizeOrderWithSwedenPurchaseProvider_GeneratesShippingLabel()
         {
             var orderFactory = new StandardOrderFactory();
-
             var order = orderFactory.GetOrder();
-
             var purchaseProviderFactory = new SwedenPurchaseProviderFactory();
 
             var cart = new ShoppingCart(order, purchaseProviderFactory);
