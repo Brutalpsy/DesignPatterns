@@ -112,9 +112,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Factory", "Creationa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory Method", "Creational\factory\Factory Method\Factory Method.csproj", "{A4709D47-6952-42FC-931D-AFA96471E954}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Factory", "Creational\factory\Abstract Factory\Abstract Factory.csproj", "{C19B4E42-D64E-4DF3-A9B2-425AF22108CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract Factory", "Creational\factory\Abstract Factory\Abstract Factory.csproj", "{C19B4E42-D64E-4DF3-A9B2-425AF22108CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Factory.Tests", "Creational\factory\Abstract Factory.Tests\Abstract Factory.Tests.csproj", "{7817277C-ABD6-4BD7-8091-09C509278031}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract Factory.Tests", "Creational\factory\Abstract Factory.Tests\Abstract Factory.Tests.csproj", "{7817277C-ABD6-4BD7-8091-09C509278031}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{0BC8BF51-1548-4684-944B-2BFD55BB2E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade Pattern", "Structural\Facade\Facade Pattern\Facade Pattern.csproj", "{ABEF10DC-BAE6-4936-A302-B5977C31AE99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -254,6 +258,10 @@ Global
 		{7817277C-ABD6-4BD7-8091-09C509278031}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7817277C-ABD6-4BD7-8091-09C509278031}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7817277C-ABD6-4BD7-8091-09C509278031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEF10DC-BAE6-4936-A302-B5977C31AE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEF10DC-BAE6-4936-A302-B5977C31AE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEF10DC-BAE6-4936-A302-B5977C31AE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEF10DC-BAE6-4936-A302-B5977C31AE99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -311,6 +319,8 @@ Global
 		{A4709D47-6952-42FC-931D-AFA96471E954} = {3A063FFB-05E8-4A83-8BEE-BA35F32F113F}
 		{C19B4E42-D64E-4DF3-A9B2-425AF22108CC} = {3A063FFB-05E8-4A83-8BEE-BA35F32F113F}
 		{7817277C-ABD6-4BD7-8091-09C509278031} = {3A063FFB-05E8-4A83-8BEE-BA35F32F113F}
+		{0BC8BF51-1548-4684-944B-2BFD55BB2E25} = {9923B664-96D7-4BB5-B10E-038C59F34C3A}
+		{ABEF10DC-BAE6-4936-A302-B5977C31AE99} = {0BC8BF51-1548-4684-944B-2BFD55BB2E25}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2A4F1DB-BC49-4A55-AD37-34D1ACF8FFD1}
