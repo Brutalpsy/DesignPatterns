@@ -124,6 +124,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Decorator", "Decorator", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorDesignPattern", "Structural\Decorator\DecoratorDesignPattern\DecoratorDesignPattern.csproj", "{40C29543-ABC1-4756-946E-994405CCA11A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Composite", "Composite", "{1A2D6FB3-949C-483C-A8A3-1F498686992E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "Structural\Composite\CompositePattern\CompositePattern.csproj", "{DB2FA08C-A015-401C-ADAD-8604A07C7B9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -270,6 +274,10 @@ Global
 		{40C29543-ABC1-4756-946E-994405CCA11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40C29543-ABC1-4756-946E-994405CCA11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40C29543-ABC1-4756-946E-994405CCA11A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2FA08C-A015-401C-ADAD-8604A07C7B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2FA08C-A015-401C-ADAD-8604A07C7B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2FA08C-A015-401C-ADAD-8604A07C7B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2FA08C-A015-401C-ADAD-8604A07C7B9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -331,6 +339,8 @@ Global
 		{ABEF10DC-BAE6-4936-A302-B5977C31AE99} = {0BC8BF51-1548-4684-944B-2BFD55BB2E25}
 		{850ECE66-E314-49F5-82CB-3F13A07702B4} = {9923B664-96D7-4BB5-B10E-038C59F34C3A}
 		{40C29543-ABC1-4756-946E-994405CCA11A} = {850ECE66-E314-49F5-82CB-3F13A07702B4}
+		{1A2D6FB3-949C-483C-A8A3-1F498686992E} = {9923B664-96D7-4BB5-B10E-038C59F34C3A}
+		{DB2FA08C-A015-401C-ADAD-8604A07C7B9E} = {1A2D6FB3-949C-483C-A8A3-1F498686992E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2A4F1DB-BC49-4A55-AD37-34D1ACF8FFD1}

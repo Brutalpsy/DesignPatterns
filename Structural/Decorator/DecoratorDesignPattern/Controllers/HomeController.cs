@@ -22,8 +22,6 @@ namespace DecoratorDesignPattern.Controllers
             return View(conditions);
         }
 
-
-
         public IActionResult Forecast(string location = "Novi Sad")
         {
             LocationForecast forecast = _weatherService.GetForecast(location);
@@ -34,8 +32,6 @@ namespace DecoratorDesignPattern.Controllers
         {
             return View();
         }
-
-
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
